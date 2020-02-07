@@ -1,4 +1,4 @@
---# this is really just a file that is used by pashs unit tests
---from alpine
+--# this is really just a file that is used by plashs unit tests
+--from alpine:edge
 --# two times so the caching gets tested
---from alpine
+--from alpine:edge
